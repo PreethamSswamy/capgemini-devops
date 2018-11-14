@@ -5,4 +5,7 @@ hello;
 void(){
 welcome;
 }
+void(){
+hi   hello
+}
 }
