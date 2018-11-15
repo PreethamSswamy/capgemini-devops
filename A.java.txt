@@ -1,9 +1,12 @@
+
 class A{
 void()
 {
 hello;
 void(){
 welcome;
+wats up buddy;
+//feature-5
 }
 void(){
 hi   hello
